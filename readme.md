@@ -1,5 +1,9 @@
 ### Membuat CRUD dengan PHP Mysql
 
+# Nama : Romiza Althafariq.k
+# Nim : 312210182
+# Kelas : TI.22.B1
+
 Pastikan anda sudah mendownload tools yang dibutuhkan
 
 - xampp
